@@ -1,0 +1,27 @@
+{
+  "name": "ctr",
+  "version": "1.0.0",
+  "description": "Common Test Runner",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatTail/ctr.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "zhongchiyu@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CatTail/ctr/issues"
+  },
+  "homepage": "https://github.com/CatTail/ctr#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "should": "^8.0.2",
+    "typescript": "^1.7.5"
+  }
+}
